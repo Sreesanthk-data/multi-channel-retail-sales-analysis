@@ -1,6 +1,6 @@
-# 📊 Multi-Channel Retail Sales & Customer Behavior Analysis
+#  Multi-Channel Retail Sales & Customer Behavior Analysis
 
-## 🔍 Project Overview
+##  Project Overview
 This project analyzes retail sales data across multiple channels to identify key revenue drivers, customer behavior patterns, and business performance trends.
 
 The workflow includes:
@@ -10,7 +10,7 @@ The workflow includes:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 retail-sales-analysis/
 │
@@ -31,7 +31,7 @@ retail-sales-analysis/
 
 ---
 
-## 🛠️ Tools Used
+##  Tools Used
 
 - Excel – Data Cleaning  
 - SQL – Data Analysis  
@@ -39,40 +39,40 @@ retail-sales-analysis/
 
 ---
 
-## 📊 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard](images/dashboard.png)
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
-### 🔥 Revenue Drivers
+###  Revenue Drivers
 - **Electronics generates ~20M revenue (~35% of total)**, making it the top-performing category  
 - It significantly outperforms **Apparel (~5M)**, which contributes the least
 
-### 📉 Underperforming Category
+###  Underperforming Category
 - **Apparel contributes less than 10% of total revenue**, indicating weak demand or low pricing efficiency  
 
-### 📅 Monthly Trend Analysis
+###  Monthly Trend Analysis
 - Revenue remained stable around **~5M/month from Jan–Sep**
 - A noticeable drop to **~4.2M in Oct–Dec (~15–18% decline)** suggests seasonal slowdown or demand reduction  
 
-### 🛒 Sales Channel Performance
+###  Sales Channel Performance
 - **Online (~28.1M) and In-Store (~28.2M)** sales are almost equally distributed (~50/50 split)  
 - Indicates a well-balanced multi-channel sales strategy  
 
-### 🔁 Return Behavior
+###  Return Behavior
 - Around **4K returns out of 44K orders (~9% return rate)**  
 - Suggests efficient order fulfillment with relatively low return volume  
 
-### 💡 Product Dependency Insight
+###  Product Dependency Insight
 - Top products (e.g., White Mug, Wall Clock, USB Cable) generate **~5M+ each**
 - Revenue is **heavily concentrated among a few top-performing products**, indicating dependency risk  
 
 ---
 
-## 🧠 SQL Analysis Highlights
+##  SQL Analysis Highlights
 
 - Data exploration (total rows, customers, orders)
 - Data quality checks (nulls, invalid values)
@@ -85,7 +85,7 @@ retail-sales-analysis/
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 - End-to-end data analytics workflow  
 - Clean and structured project organization  
@@ -94,7 +94,7 @@ retail-sales-analysis/
 
 ---
 
-## 📌 How to Use
+##  How to Use
 
 1. Open Power BI dashboard:
    powerbi/dashboard.pbix  
@@ -106,14 +106,14 @@ retail-sales-analysis/
 
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 This project demonstrates how retail data can be transformed into actionable business insights.  
 It highlights revenue concentration, seasonal trends, and balanced channel performance, enabling better strategic decision-making.
 
 ---
 
-## 📂 Data Source
+##  Data Source
 
 Dataset sourced from Kaggle:
 Multi-Channel Retail Sales Dataset
